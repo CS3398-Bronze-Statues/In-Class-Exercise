@@ -13,6 +13,10 @@ This is Maria from local branch! again...
 This is Maria from PERSONAL Branch.
 This is Caleb - editing again.
 Github is cool.
+<<<<<<< Updated upstream
 This is K-Rod.
 This is the original branch. (Praying this works.)
 K-Rod again.
+=======
+This is Maria editing AGAIN!
+>>>>>>> Stashed changes
